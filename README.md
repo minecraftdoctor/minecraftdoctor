@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @minecraftdoctor
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Hi, I am minecraftdoctor. 
+I live in Pakistan, Lahore.
+I am intrusted in freelancing, computers, sciences and biology.
+I am in grade 7 and I am learning HTML, CSS and JAVASCRIPT.
+You can contact or reach me via: mibrahimali201149@gmail.com
+--->
